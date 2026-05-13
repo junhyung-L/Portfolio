@@ -19,6 +19,25 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
+### 📊 Portfolio Ecosystem
+```mermaid
+graph TD
+    A[My Portfolio] --> B(Awards & Business ROI)
+    A --> C(Advanced ML & Deep Learning)
+    A --> D(Data-Centric & XAI Research)
+    
+    B --> B1[Forestry Statistics]
+    B --> B2[PBL Growth Hacking]
+    B --> B3[Capstone Simulation]
+    
+    C --> C1[Toss CTR Prediction]
+    C --> C2[LLM Job Simulator]
+    C --> C3[Dongwon Demand Forecast]
+    
+    D --> D1[Marketing Fatigue Paper]
+    D --> D2[Depression Risk Analysis]
+```
+
 ### 💡 Key Impact Metrics
 - **🏆 Awards**: 2-time Grand Prize & 1-time Gold Prize winner (Triple Crown).
 - **📊 Scale**: Engineered big data pipelines handling 2.4M+ rows and 850+ dimensions.
@@ -31,7 +50,7 @@
 | :---: | :--- | :--- | :--- | :---: |
 | **Contest** | **[2024 Forestry Statistics](https://github.com/junhyung-L/2024-Forestry-Statistics-Smart-Competition-Contest)** | Built crop-specific optimal cultivation land recommendation and yield prediction models by fusing heterogeneous data based on ANOVA validation. | `RF`, `SVM`, `GeoPandas` | **Grand Prize** |
 | **PBL** | **[2025 PBL Program](https://github.com/junhyung-L/2025-PBL-program)** | Established targeted marketing strategies based on commercial vacancy rate analysis. Achieved 600% traffic and 25% sales growth via growth hacking. | `Data Analysis`, `Growth` | **Grand Prize** |
-| **Capstone** | **[2025 Capstone Design](https://github.com/junhyung-L/2025-Industry-Academic-Capstone-Design-Competition)** | Simulated 66 cashback policy scenarios for maximum ROI under budget constraints. Modeled optimal timing using LPF and time-series ensembles. | `CatBoost`, `LightGBM` | **Gold Prize** |
+| **Capstone** | **[2025 Capstone Design](https://github.com/junhyung-L/2025-Industry-Academic-Capstone-Design-Competition)** | Simulated 66 cashback policy scenarios for maximum ROI under budget constraints. Modeled optimal timing using LPF and Hurst Exponent. | `CatBoost`, `LightGBM` | **Gold Prize** |
 
 ### 📜 2. Academic Papers
 | Research Topic | Contribution & Architecture | Tech Stack | Status |
@@ -56,6 +75,25 @@
 > Data-Centric AI를 기반으로 복잡한 비즈니스 문제를 해결하고 뚜렷한 ROI를 창출하는 데이터 분석가 / AI 엔지니어입니다.
 > 딥러닝 트렌드에 매몰되지 않고, 해석 가능성(XAI)과 도메인 최적화(Domain Expertise)를 우선시합니다.
 
+### 📊 포트폴리오 에코시스템 (구조화)
+```mermaid
+graph TD
+    A[My Portfolio] --> B(Awards & Business ROI)
+    A --> C(Advanced ML & Deep Learning)
+    A --> D(Data-Centric & XAI Research)
+    
+    B --> B1[Forestry Statistics]
+    B --> B2[PBL Growth Hacking]
+    B --> B3[Capstone Simulation]
+    
+    C --> C1[Toss CTR Prediction]
+    C --> C2[LLM Job Simulator]
+    C --> C3[Dongwon Demand Forecast]
+    
+    D --> D1[Marketing Fatigue Paper]
+    D --> D2[Depression Risk Analysis]
+```
+
 ### 💡 Key Impact Metrics (핵심 성과 지표)
 - **🏆 Awards**: 2회 대상(인천시장상 등) 및 1회 금상 수상 (총 3관왕).
 - **📊 Scale**: 240만 건, 850+ 차원의 대용량 정형 데이터 엔지니어링 및 분석 경험.
@@ -68,7 +106,7 @@
 | :---: | :--- | :--- | :--- | :---: |
 | **공모전** | **[2024 산림임업 통계 스마트 경진대회](https://github.com/junhyung-L/2024-Forestry-Statistics-Smart-Competition-Contest)** | ANOVA 검증 기반 이종 데이터(기후·토양·생산) 융합 분석으로 **작물별 최적 재배지 추천 및 생산량 예측 모델** 구축. | `RF`, `SVM`, `GeoPandas` | **대상** |
 | **PBL** | **[2025 PBL 프로그램 (동인천 구도심 활성화)](https://github.com/junhyung-L/2025-PBL-program)** | 구도심 상권 분석 기반 타겟 마케팅 전략 수립. 그로스해킹을 통한 **MZ세대 트래픽 600% 및 매출 25% 증대** 달성. | `Data Analysis`, `Growth` | **대상** |
-| **캡스톤** | **[2025 산학 캡스톤디자인 (인천 e음카드)](https://github.com/junhyung-L/2025-Industry-Academic-Capstone-Design-Competition)** | 예산 제약 하 **최대 ROI 달성을 위한 66개 캐시백 정책 시나리오 시뮬레이션**. LPF 및 시계열 앙상블로 최적 정책 대안 모델링. | `CatBoost`, `LightGBM` | **금상** |
+| **캡스톤** | **[2025 산학 캡스톤디자인 (인천 e음카드)](https://github.com/junhyung-L/2025-Industry-Academic-Capstone-Design-Competition)** | 예산 제약 하 **최대 ROI 달성을 위한 66개 캐시백 정책 시나리오 시뮬레이션**. LPF 및 Hurst 지수 분석으로 최적 정책 대안 모델링. | `CatBoost`, `LightGBM` | **금상** |
 
 ### 📜 2. Academic Papers (학술 논문)
 | 연구 주제 | 아키텍처 및 연구 기여도 (Contribution) | 기술 스택 | 상태 |
