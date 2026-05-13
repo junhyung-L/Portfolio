@@ -132,5 +132,5 @@ graph TD
 > 가치 있는 데이터 분석은 정밀한 예측을 넘어, 올바른 의사결정을 이끌어내고 비즈니스 ROI를 창출할 때 비로소 완성된다고 믿습니다.
 
 - **📄 Resume**: [Click Here](https://github.com/junhyung-L/Resume)
-- **📫 LinkedIn**: *(www.linkedin.com/in/junhyung-lee-ba4b6139b)*
-- **📧 Email**: *(a99115334@gmail.com)*
+- **📫 LinkedIn**: [Click Here](www.linkedin.com/in/junhyung-lee-ba4b6139b)
+- **📧 Email**: [Contact me](a99115334@gmail.com)
