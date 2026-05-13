@@ -73,7 +73,7 @@ graph TD
 ## 🇰🇷 Korean Version
 
 > Data-Centric AI를 기반으로 복잡한 비즈니스 문제를 해결하고 뚜렷한 ROI를 창출하는 데이터 분석가 / AI 엔지니어입니다.
-> 딥러닝 트렌드에 매몰되지 않고, 해석 가능성(XAI)과 도메인 최적화(Domain Expertise)를 우선시합니다.
+> 딥러닝 트렌드에 매몰되지 않고, **해석 가능성(XAI)**과 **도메인 최적화(Domain Expertise)**를 우선시합니다.
 
 ### 📊 포트폴리오 에코시스템 (구조화)
 ```mermaid
@@ -123,3 +123,14 @@ graph TD
 | **Healthcare** | **[우울증 위험 예측 및 요인 분석](https://github.com/junhyung-L/Development-of-Depression-Risk-Prediction-Model-and-Analysis-of-Key-Factors)** | 통계적 가설 검증과 White-box 모델링을 결합하여, 성능(F1 0.90)과 의료 도메인의 필수 요건인 '설명 가능성' 동시 확보. | `Logistic Reg.` |
 | **Mobility** | **[전기차 가격 예측 해커톤](https://github.com/junhyung-L/EV-Price-Forecast-Hackathon-Read-EVs-With-Data)** | ML 기반 결측치 대체 및 비선형 감가상각 모델링을 통해, 파생 피처의 다중공선성을 제어하고 정밀한 가격 회귀 예측 구현. | `XGBoost`, `Pandas` |
 | **GIS** | **[제11회 인천시 노인 낙상 방지 맵](https://github.com/junhyung-L/The-11th-Incheon-Public-Data-Utilization-Competition)** | GIS 공간 연산과 실시간 기상 데이터를 결합하여, 고령자를 위한 Heuristic 기반 '최소 위험 보행 경로' 알고리즘 개발. | `GeoPandas`, `Folium` |
+
+---
+
+## 🎯 My Philosophy & Contact
+
+> "I don't just build models; I solve business problems."
+> 가치 있는 데이터 분석은 정밀한 예측을 넘어, 올바른 의사결정을 이끌어내고 비즈니스 ROI를 창출할 때 비로소 완성된다고 믿습니다.
+
+- **📄 Resume & Master Portfolio**: [Click Here](https://github.com/junhyung-L/Resume/blob/main/Portfolio/README.md)
+- **📫 LinkedIn**: *(Add your LinkedIn link here)*
+- **📧 Email**: *(Add your email here)*
