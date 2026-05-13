@@ -133,4 +133,3 @@ graph TD
 
 - **📄 Resume**: [Click Here](https://github.com/junhyung-L/Resume)
 - **📫 LinkedIn**: [Click Here](www.linkedin.com/in/junhyung-lee-ba4b6139b)
-- **📧 Email**: [Contact me](a99115334@gmail.com)
