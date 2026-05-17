@@ -119,7 +119,7 @@ graph TD
 
 ---
 
-> "I don't just build models; I solve business problems."
+> "I don't just build models; I solve business problems."\
 > 가치 있는 데이터 분석은 정밀한 예측을 넘어, 올바른 의사결정을 이끌어내고 비즈니스 ROI를 창출할 때 비로소 완성된다고 믿습니다.
 
 - **📄 Resume**: [Click Here](https://github.com/junhyung-L/Resume)
