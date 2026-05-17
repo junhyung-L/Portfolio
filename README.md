@@ -6,7 +6,7 @@
 
 ---
 
-> Focus on Data-Centric AI to solve complex business problems and generate clear ROI.
+> Focus on Data-Centric AI to solve complex business problems and generate clear ROI.\
 > Prioritize Explainable AI (XAI) and Domain Expertise over blind deep learning trends.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -66,7 +66,7 @@ graph TD
 
 ---
 
-> Data-Centric AI를 기반으로 복잡한 비즈니스 문제를 해결하고 뚜렷한 ROI를 창출하는 데이터 분석가 / AI 엔지니어입니다.
+> Data-Centric AI를 기반으로 복잡한 비즈니스 문제를 해결하고 뚜렷한 ROI를 창출하는 데이터 분석가 / AI 엔지니어입니다.\
 > 딥러닝 트렌드에 매몰되지 않고, 해석 가능성(XAI)과 도메인 최적화(Domain Expertise)를 우선시합니다.
 
 ### 📊 포트폴리오 에코시스템 (구조화)
