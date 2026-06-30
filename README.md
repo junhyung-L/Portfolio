@@ -53,7 +53,7 @@ graph TD
 ### 📜 2. Academic Papers
 | Research Topic | Contribution & Architecture | Tech Stack | Status |
 | :--- | :--- | :--- | :---: |
-| **[Investigating Marketing Fatigue](https://github.com/junhyung-L/Marketing-Fatigue-Analysis)** | Operationalized Weber-Fechner Law and Buy Till You Die theories into mathematical decay functions for feature engineering on 170M+ events (0.12% CTR). Proved XGBoost superiority over complex DL and proposed 13.1% cost reduction using TreeSHAP. | `BigQuery`, `XGBoost`, `SHAP` | **KCI**<br>*(Under Review)* |
+| **[Investigating Marketing Fatigue](https://github.com/junhyung-L/Marketing-Fatigue-Analysis)** | Operationalized Weber-Fechner Law and Buy Till You Die theories into mathematical decay functions for feature engineering on 170M+ events (0.12% CTR). Proved XGBoost superiority over complex DL and proposed 13.1% cost reduction using TreeSHAP. | `BigQuery`, `XGBoost`, `SHAP` | *-* |
 
 | Domain | Project | Engineering Highlights | Tech Stack |
 | :---: | :--- | :--- | :--- |
@@ -106,7 +106,7 @@ graph TD
 ### 📜 2. Academic Papers (학술 논문)
 | 연구 주제 | 아키텍처 및 연구 기여도 (Contribution) | 기술 스택 | 상태 |
 | :--- | :--- | :--- | :---: |
-| **[마케팅 피로도와 구매 역동성 규명](https://github.com/junhyung-L/Marketing-Fatigue-Analysis)** | 극도의 희소성(0.12% 전환율) **1.7억 건 로그** 데이터에서 경영학 이론(베버-페히너 법칙 등)을 수학적 감쇠 함수로 Feature Engineering 수행. **XGBoost의 우수성 입증 및 TreeSHAP를 활용한 마케팅 비용 13.1% 절감 제안.** | `BigQuery`, `XGBoost`, `SHAP` | **KCI**<br>*(심사 중)* |
+| **[마케팅 피로도와 구매 역동성 규명](https://github.com/junhyung-L/Marketing-Fatigue-Analysis)** | 극도의 희소성(0.12% 전환율) **1.7억 건 로그** 데이터에서 경영학 이론(베버-페히너 법칙 등)을 수학적 감쇠 함수로 Feature Engineering 수행. **XGBoost의 우수성 입증 및 TreeSHAP를 활용한 마케팅 비용 13.1% 절감 제안.** | `BigQuery`, `XGBoost`, `SHAP` | *-* |
 
 | 도메인 | 프로젝트명 | 엔지니어링 하이라이트 (Engineering Highlights) | 기술 스택 |
 | :---: | :--- | :--- | :--- |
