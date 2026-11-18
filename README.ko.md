@@ -18,7 +18,7 @@
 
 ### 마케팅 피로도 기반 구매 전환 예측
 
-[crm-conversion-prediction](https://github.com/junhyung-L/crm-conversion-prediction)는 REES46 다채널 CRM 로그 약 1억 7,200만 건을 바탕으로 구매 주기, 반응 시점, 피로도, 채널 효과성을 피처로 만들었습니다. 원고의 도메인 피처 XGBoost는 원분포 holdout에서 F1 0.3806, PR-AUC 0.3620을 기록했습니다. 상위 0.78%를 고른 분석에서 전환 95.83%를 포착하고 후보 수가 99.22% 줄었지만, 이는 실제 비용 절감이 아닌 오프라인 순위 선별 결과입니다.
+[crm-conversion-prediction](https://github.com/junhyung-L/crm-conversion-prediction)는 REES46 다채널 CRM 로그 약 1억 7,200만 건을 바탕으로 구매 주기, 반응 시점, 피로도, 채널 효과성을 피처로 만들었습니다. 원고의 도메인 피처 XGBoost는 원분포 holdout에서 F1 0.3806, PR-AUC 0.3620을 기록했습니다. 점수 상위 0.78%만 선별하면 전환의 95.83%를 포착하며, 이때 정밀도는 약 15%로 기준 전환율의 약 120배입니다. 오프라인 순위 결과이며 실제 캠페인 성과는 아닙니다.
 
 ### 인천 e음 캐시백 정책 시뮬레이션
 
