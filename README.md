@@ -4,6 +4,8 @@
 
 I work on customer behaviour, local commerce, policy, pricing, recommendation, and spatial decision-support problems. The repositories document not only models, but also the data boundary and what a result can reasonably mean.
 
+I am currently an intern in the BigData&AI Cell at Hana Financial Convergence Technology Institute (Jul 2026–), and was an undergraduate researcher at DIVE Lab (Feb 2025–Feb 2026), working on causal inference for marketing-fatigue effects.
+
 ## Selected work
 
 ### Forestry crop suitability and yield analysis

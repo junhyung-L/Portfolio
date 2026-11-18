@@ -4,7 +4,7 @@ The original certificates contain personal information and are retained privatel
 They are available on request; this public record lists the verified award
 metadata supplied by the certificate holder.
 
-## 2024 Forestry Statistics Smart Utilization Competition
+## 2024 Forestry Statistics Smart Use Competition
 
 - **Organizer:** Korea Forest Service and Korea Forestry Promotion Institute
 - **Award date:** 2024-12-13
