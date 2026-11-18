@@ -56,4 +56,4 @@ Award certificates are available on request.
 
 ---
 
-[Resume](https://github.com/junhyung-L/Resume/blob/main/README.en.md) · [GitHub](https://github.com/junhyung-L) · [LinkedIn](https://www.linkedin.com/in/junhyung-lee-data) · [Email](mailto:jun010914@inu.ac.kr)
+[Resume](https://github.com/junhyung-L/Resume/blob/main/README.en.md) · [GitHub](https://github.com/junhyung-L) · [LinkedIn](https://www.linkedin.com/in/junhyung-lee-data) · [Email](mailto:junhyunglee.kr@gmail.com)

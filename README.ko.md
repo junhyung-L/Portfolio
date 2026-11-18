@@ -56,4 +56,4 @@ Marketing & Data Analysis 역할로 공실 데이터와 상인 인터뷰를 원�
 
 ---
 
-[이력서](https://github.com/junhyung-L/Resume) · [GitHub](https://github.com/junhyung-L) · [LinkedIn](https://www.linkedin.com/in/junhyung-lee-data) · [Email](mailto:jun010914@inu.ac.kr)
+[이력서](https://github.com/junhyung-L/Resume) · [GitHub](https://github.com/junhyung-L) · [LinkedIn](https://www.linkedin.com/in/junhyung-lee-data) · [Email](mailto:junhyunglee.kr@gmail.com)
