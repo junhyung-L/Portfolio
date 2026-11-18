@@ -18,7 +18,9 @@ I am currently an intern in the BigData&AI Cell at Hana Financial Convergence Te
 
 ### Purchase conversion prediction with marketing-fatigue features
 
-[crm-conversion-prediction](https://github.com/junhyung-L/crm-conversion-prediction) uses roughly 172M REES46 multichannel CRM logs to build purchase-cycle, response-timing, fatigue, and channel-effectiveness features. The manuscript reports domain-feature XGBoost F1 0.3806 and PR-AUC 0.3620 on its original-distribution holdout. Contacting the top 0.78% of scores captured 95.83% of conversions at a precision of about 15%, roughly 120x the base rate; this is an offline ranking result, not a measured campaign outcome.
+First-author paper, forthcoming in *마케팅연구* (Korean Marketing Association), November 2026.
+
+[crm-conversion-prediction](https://github.com/junhyung-L/crm-conversion-prediction) uses roughly 172M REES46 multichannel CRM logs to build purchase-cycle, response-timing, fatigue, and channel-effectiveness features. The manuscript reports domain-feature XGBoost F1 0.3806 and PR-AUC 0.3620 on its original-distribution holdout. Contacting the top 0.78% of scores captured 95.83% of conversions at a precision of 15.26% (123.7x lift over random sending); this is an offline ranking result, not a measured campaign outcome.
 
 ### Incheon e-Eum cashback policy simulation
 
