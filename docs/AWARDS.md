@@ -33,9 +33,5 @@ metadata supplied by the certificate holder.
 - **Project:** Incheon e-Eum-card cashback-policy simulation across 66
   scenarios under budget constraints
 
-## Evidence boundary
-
-- **USER_INPUT_CONFIRMED:** Award metadata and project outcomes above were
-  confirmed by the certificate holder.
-- **PRIVATE EVIDENCE:** Certificate originals are not published because they
-  contain personal information.
+Award details above match the original certificates, which contain personal
+information and are available on request.
