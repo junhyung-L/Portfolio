@@ -8,6 +8,8 @@
 
 ## 대표 작업
 
+대표 작업은 논문과 수상작 위주입니다. 모델링 깊이는 아래 목록의 CTR·신용카드 저장소에서 볼 수 있습니다.
+
 ### 동태적 마케팅 지식 기반 구매 전환 예측
 
 제1저자 논문, 『마케팅연구』(한국마케팅학회) 2026년 11월 게재 예정. [crm-conversion-prediction](https://github.com/junhyung-L/crm-conversion-prediction)

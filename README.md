@@ -8,6 +8,8 @@ Currently an intern in the BigData&AI Cell at Hana Financial Convergence Technol
 
 ## Selected work
 
+Selected work leads with the paper and the awarded projects; for modeling depth, see the CTR and credit-card repositories in the archive below.
+
 ### Purchase Conversion Prediction with Dynamic Marketing Knowledge
 
 First-author paper, *마케팅연구* (Korean Marketing Association), forthcoming November 2026. [crm-conversion-prediction](https://github.com/junhyung-L/crm-conversion-prediction)
