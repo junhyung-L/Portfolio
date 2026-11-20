@@ -4,7 +4,7 @@
 
 I build prediction models and decision simulations from customer, policy, and spatial data. Each repository states the data, the evaluation setting, and what a result does and does not show.
 
-Currently an intern in the BigData&AI Cell at Hana Financial Convergence Technology Institute (Jul 2026–). Undergraduate researcher at DIVE Lab, Incheon National University (Feb 2025–Feb 2026), where I wrote the first-author CRM paper below; a follow-up causal-inference study on marketing fatigue is in progress.
+Currently an intern in the BigData&AI Cell at Hana Institute of Technology (Jul 2026–), working on a reimplementation specification for an equity-rating model with AI-assisted reimplementation checks, a credit-card scorecard model, and fraud-detection (FDS) analysis on blockchain data. Undergraduate researcher at DIVE Lab, Incheon National University (Feb 2025–Feb 2026), where I wrote the first-author CRM paper below; a follow-up causal-inference study on marketing fatigue is in progress.
 
 ## Selected work
 
@@ -12,7 +12,7 @@ Selected work leads with the paper and the awarded projects; for modeling depth,
 
 ### Purchase Conversion Prediction with Dynamic Marketing Knowledge
 
-First-author paper, *마케팅연구* (Korean Marketing Association), forthcoming November 2026. [crm-conversion-prediction](https://github.com/junhyung-L/crm-conversion-prediction)
+First-author paper, *마케팅연구* (Korean Marketing Association), forthcoming November 2026. Companion conference paper on the same data and features: *Context-Aware Conversion Intelligence: A Data-Centric and Resource-Efficient Framework for Ultra-Sparse Multichannel E-Commerce Interactions* (Kyungwon Kim, Junhyung Lee), accepted for presentation at Ubi-Media 2027 (15th International Conference on Ubi-Media Computing, Okinawa, January 2027). [crm-conversion-prediction](https://github.com/junhyung-L/crm-conversion-prediction)
 
 On 172 million REES46 CRM messages with a 0.1234% conversion rate, I turned marketing theory into four groups of time-varying features (purchase cycle, temporal response, fatigue, channel effectiveness) and compared nine models. XGBoost with these features had the best F1 (0.3806) and PR-AUC (0.3620) on the original-distribution holdout. Contacting the top 0.78% of messages captured 95.83% of conversions at 15.26% precision (123.7x lift).
 

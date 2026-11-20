@@ -4,7 +4,7 @@
 
 고객·정책·공간 데이터로 예측 모델과 의사결정 시뮬레이션을 만듭니다. 각 저장소에 데이터, 평가 조건, 결과가 보여 주는 것과 보여 주지 않는 것을 함께 적었습니다.
 
-현재 하나금융융합기술원 BigData&AI Cell 인턴(2026.07–)입니다. 인천대학교 DIVE Lab 학부연구생(2025.02–2026.02)으로 아래 CRM 논문을 제1저자로 썼고, 마케팅 피로도에 대한 인과추론 후속 연구를 진행 중입니다.
+현재 하나금융융합기술원 BigData&AI Cell 인턴(2026.07–)으로 주식등급평가모형 재구현 명세서 작성과 AI 보조 재구현 검증, 신용카드 스코어카드 모형 구현, 블록체인 데이터 기반 이상거래탐지(FDS) 분석을 맡고 있습니다. 인천대학교 DIVE Lab 학부연구생(2025.02–2026.02)으로 아래 CRM 논문을 제1저자로 썼고, 마케팅 피로도에 대한 인과추론 후속 연구를 진행 중입니다.
 
 ## 대표 작업
 
@@ -12,7 +12,7 @@
 
 ### 동태적 마케팅 지식 기반 구매 전환 예측
 
-제1저자 논문, 『마케팅연구』(한국마케팅학회) 2026년 11월 게재 예정. [crm-conversion-prediction](https://github.com/junhyung-L/crm-conversion-prediction)
+제1저자 논문, 『마케팅연구』(한국마케팅학회) 2026년 11월 게재 예정. 같은 데이터와 변수를 다룬 국제학술대회 논문 「Context-Aware Conversion Intelligence: A Data-Centric and Resource-Efficient Framework for Ultra-Sparse Multichannel E-Commerce Interactions」(김경원, 이준형)이 Ubi-Media 2027(제15회 International Conference on Ubi-Media Computing, 2027년 1월 일본 오키나와) 발표 논문으로 채택되었습니다. [crm-conversion-prediction](https://github.com/junhyung-L/crm-conversion-prediction)
 
 전환율 0.1234%인 REES46 CRM 메시지 1억 7,200만 건에서 마케팅 이론을 4대 동태적 피처군(구매 주기, 시계열적 반응, 피로도, 채널 효과성)으로 만들고 9종 모형을 비교했습니다. 이 피처를 더한 XGBoost가 원분포 holdout에서 F1(0.3806)과 PR-AUC(0.3620)가 가장 높았습니다. 상위 0.78% 메시지만 발송하면 전환의 95.83%를 정밀도 15.26%(lift 123.7배)로 포착합니다.
 
